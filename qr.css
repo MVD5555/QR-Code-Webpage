@@ -41,4 +41,5 @@ body {
   width: 340px;
   margin-top: 30px;
   border-radius: 10px;
+  background-image: url(./images/image-qr-code.png);
 }
